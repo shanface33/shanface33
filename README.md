@@ -1,10 +1,9 @@
 ## Hi there! 👋
 
-My name is Shan Jia. I'm currently a Research Scientist and Assistant Lab Director in the Department of Computer Science and Engineering at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the Media Forensic Lab led by Professor Siwei Lyu.
+My name is Shan Jia. I’m currently working on Media Forensics, Image/Video Processing, and Biometrics.
 
-- 🔭 I’m currently working on Media Forensics, Image/Video Processing, and Biometrics.
 - 📑 Publications: https://scholar.google.com/citations?hl=en&user=YTAkshQAAAAJ&view_op=list_works&sortby=pubdate 
-- 📫 How to reach me: shanjia@buffalo.edu; shanjia.ub@gmail.com
+- 📫 How to reach me: shanjia.ub@gmail.com; shanjia@google.com
 - ⚡ Fun fact: My name in Mandarin oincidentally mirrors the pronunciation of “Fake Mountain.” What’s even more interesting is that my research is closely related to “fake things”, including the identification and generation of fake images, videos, audio, and news😀.
   
 <!--
