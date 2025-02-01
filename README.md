@@ -4,7 +4,7 @@ My name is Shan Jia. I’m currently working on Media Forensics, Image/Video Pro
 
 - 📑 Publications: https://scholar.google.com/citations?hl=en&user=YTAkshQAAAAJ&view_op=list_works&sortby=pubdate 
 - 📫 How to reach me: shanjia.ub@gmail.com; shanjia@google.com
-- ⚡ Fun fact: My name in Mandarin oincidentally mirrors the pronunciation of “Fake Mountain.” What’s even more interesting is that my research is closely related to “fake things”, including the identification and generation of fake images, videos, audio, and news😀.
+- ⚡ Fun fact: My name in Mandarin coincidentally mirrors the pronunciation of “Fake Mountain.” What’s even more interesting is that my research is closely related to “fake things”, including the identification and generation of fake images, videos, audio, and news😀.
   
 <!--
 **shanface33/shanface33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
